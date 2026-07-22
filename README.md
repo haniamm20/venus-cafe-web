@@ -7,27 +7,27 @@
 
 ## Fitur Utama & Struktur Sistem
    
-### Front-End (Pandji Satria)
+### Front-End 
 **Halaman Utama:** Memperkenalkan profil Venus Cade dan promosi unggulan.
 **Menu Cafe:** Menampilkan daftar menu makanan & minuman beserta detail harga dan deskripsi.
 **Sistem Booking/Reservasi:** Form reservasi meja bagi pembembeli untuk menentukan jadwal dan opsi pemesanan. 
 **Proses Pembayaran & Konfirmasi:** Alur konfirmasi reservasi dan status pembayaran (*Payment Success*).
 **Verifikasi Identitas:** Layanan *Register* dan *Login* pelanggan. 
 
-### Back End & Fitur CRUD (Pandji Satria)
+### Back End & Fitur CRUD 
 **Create (Tambah Data):** Memproses registrasi akun baru, pembuatan reservasi cafe, dan pengimputan data transaksi. 
 **Read (Tampilan Data):** Menampilkan daftar menu, riwayat reservasi pelanggan, serta rincian detail pemesanan.
 **Update (Pembaruan Data):** Memperbatui status booking, perubahan data prosil pengguna, atau penyesuaian detail pesanan. 
 **(Delete):** Fitur pembatalan reservasi atau pembatalan sesi pelanggan. 
 
-### Keunggulan Aplikasi (Hani Ammaria)
+### Keunggulan Aplikasi 
 1. Design antarmuka yang berih yang bersih, responsif, dan ramah pengguna (*user-friendly*).
 2. Integrasi database terstruktur untuk memastikan validasi proses reservasi.
 3. kemudahan migrasi dan fleksibilitas platform (dapat diakses daring secara penuh).
 
 ---
 
-## Teknologi yang Digunakan (Hani Ammaria)
+## Teknologi yang Digunakan 
 **Language:** PHP 8.x, HTML5, CSS3, JavaScript.
 **Database:** MySQL.
 **Web Server:** Apache (XAMPP untuk lingkungan lokal).
