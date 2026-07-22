@@ -6,28 +6,28 @@
   Sistem ini berfungsi untuk memudahkan pelanggan dalam melakukan booking/ reservasi tempat di Venus Cafe secara onile, melihat daftar menu makanan dan minuman yang tersedia, serta membantu pengelola cafe dalam memproses dan transaksi dan reservasi dengan lebih struktur.
 
 ## Fitur Utama & Struktur Sistem
-
-### Front-End
+   
+### Front-End (Pandji Satria)
 **Halaman Utama:** Memperkenalkan profil Venus Cade dan promosi unggulan.
 **Menu Cafe:** Menampilkan daftar menu makanan & minuman beserta detail harga dan deskripsi.
 **Sistem Booking/Reservasi:** Form reservasi meja bagi pembembeli untuk menentukan jadwal dan opsi pemesanan. 
 **Proses Pembayaran & Konfirmasi:** Alur konfirmasi reservasi dan status pembayaran (*Payment Success*).
 **Verifikasi Identitas:** Layanan *Register* dan *Login* pelanggan. 
 
-### Back End & Fitur CRUD
+### Back End & Fitur CRUD (Pandji Satria)
 **Create (Tambah Data):** Memproses registrasi akun baru, pembuatan reservasi cafe, dan pengimputan data transaksi. 
 **Read (Tampilan Data):** Menampilkan daftar menu, riwayat reservasi pelanggan, serta rincian detail pemesanan.
 **Update (Pembaruan Data):** Memperbatui status booking, perubahan data prosil pengguna, atau penyesuaian detail pesanan. 
 **(Delete):** Fitur pembatalan reservasi atau pembatalan sesi pelanggan. 
 
-### Keunggulan Aplikasi 
+### Keunggulan Aplikasi (Hani Ammaria)
 1. Design antarmuka yang berih yang bersih, responsif, dan ramah pengguna (*user-friendly*).
 2. Integrasi database terstruktur untuk memastikan validasi proses reservasi.
 3. kemudahan migrasi dan fleksibilitas platform (dapat diakses daring secara penuh).
 
 ---
 
-## Teknologi yang Digunakan 
+## Teknologi yang Digunakan (Hani Ammaria)
 **Language:** PHP 8.x, HTML5, CSS3, JavaScript.
 **Database:** MySQL.
 **Web Server:** Apache (XAMPP untuk lingkungan lokal).
